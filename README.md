@@ -1,2 +1,2 @@
-# projeto-2
+# projeto2
 cursa project2
